@@ -1,5 +1,6 @@
 | Name | Uni ID | GitHub username |
 | --- | --- | --- |
+| Cormac Kikkert | u6427001 | [@cormackikkert](https://github.com/cormackikkert)
 | Louis Moresi | u1076850 | [@lmoresi](http://github.com/lmoresi) |
 | Navid Constantinou | u1063801 | [@navidcy](http://github.com/navidcy) |
 | Samuel Lewis | u6668899 | [@Samlewis99](https://github.com/Samlewis99) |
@@ -8,7 +9,7 @@
 | Edgar Leong | u6569949 | [@EdgarLJH](http://github.com/EdgarLJH) |
 | Lachlan Dodd  | u6381281 | [@lachlan13893](https://github.com/lachlan13893) |
 | Lucas Tatnell | u6079899 | [@ltatnell](https://github.com/ltatnell) |
-| Anastasia Morfiadakis | u6947170 | [anastasia-morf](http://github.com/anastasia-morf) |
+| Anastasia Morfiadakis | u6947170 | [@anastasia-morf](http://github.com/anastasia-morf) |
 | Jiarun Zhou | u7382599 | [@JiarunZhou](https://github.com/JiarunZhou) |
 | Zhihan Liu | u7169562 | [@0Zhihan](https://github.com/Zhihanliu) |
 | Dzaky Irfansyah | u7382714 | [@dzakyirfan](http://github.com/dzakyirfan) |
